@@ -50,7 +50,7 @@ def main():
     pTime = 0
 
     # Set 0 for using your laptop camera
-    cap = cv2.VideoCapture(1)
+    cap = cv2.VideoCapture(0)
     detector = handDetector()
 
     while True:
