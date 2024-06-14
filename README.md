@@ -17,6 +17,7 @@ This project is a hand tracking application built using OpenCV and MediaPipe. Th
 
 ## Demo
 Here's a brief demonstration of the hand tracking application in action:
+![Untitled video - Made with Clipchamp](https://github.com/hamza-amin-4365/AI-Canvas/assets/125562989/354fce6a-d52e-41cd-a3bb-54208792fdab)
 
 ## Motivation
 The motivation behind this project was to explore the capabilities of computer vision and hand tracking technologies, and to create an interactive application that demonstrates these capabilities in a fun and engaging way.
