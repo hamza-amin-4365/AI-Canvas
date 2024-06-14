@@ -62,7 +62,7 @@ Directory Tree
 * Optimize performance for lower-end hardware.
 
 ## Bug / Feature Request
-If you find a bug or have a feature request, please open an issue [here](https://https://github.com/hamza-amin-4365/AI-Canvas/issues/new).
+If you find a bug or have a feature request, please open an issue [here](https://github.com/hamza-amin-4365/AI-Canvas/issues/new).
 
 ## Technologies Used
 <img target="_blank" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" width=200>
