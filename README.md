@@ -19,7 +19,7 @@ This project is a hand tracking application built using OpenCV and MediaPipe. Th
 Here's a brief demonstration of the hand tracking application in action:
 
 ## Motivation
-The motivation behind this project was to provide a user-friendly way to convert CSV data into a SQLite database, while also automatically handling foreign key relationships between the tables. This can be useful for data analysis, querying, and integration with other applications that work with SQLite databases.
+The motivation behind this project was to explore the capabilities of computer vision and hand tracking technologies, and to create an interactive application that demonstrates these capabilities in a fun and engaging way.
 
 ## Technical Aspect
 The application uses the following technologies and libraries:
@@ -62,7 +62,7 @@ Directory Tree
 * Optimize performance for lower-end hardware.
 
 ## Bug / Feature Request
-If you find a bug or have a feature request, please open an issue here.
+If you find a bug or have a feature request, please open an issue [here](https://https://github.com/hamza-amin-4365/AI-Canvas/issues/new).
 
 ## Technologies Used
 <img target="_blank" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" width=200>
@@ -70,6 +70,6 @@ If you find a bug or have a feature request, please open an issue here.
 <img target="_blank" src="https://numpy.org/images/logo.svg" width=200>
 
 ## Credits
-MediaPipe
-OpenCV
-NumPy
+* MediaPipe
+* OpenCV
+* NumPy
